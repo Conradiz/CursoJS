@@ -1,0 +1,23 @@
+body{
+    background: black;
+    font: Helvetica;
+
+}
+header{
+    color: white;
+    text-align: center;
+    margin: 10px;
+
+}
+section{
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    background: white;
+    border-radius: 15px;
+}
+footer{
+    color: beige;
+    text-align: center;
+
+}

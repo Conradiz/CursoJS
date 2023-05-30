@@ -1,0 +1,25 @@
+body{
+    background: rgb(41, 28, 28);
+
+}
+header{
+    color: azure;
+    text-align: center;
+
+}
+section{
+    width: 500px;
+    padding: 15px;
+    background: white;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px  rgb(170, 163, 163);
+    text-align: center;
+
+
+}
+footer{
+    color: azure;
+    text-align: center;
+    
+}

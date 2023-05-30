@@ -1,0 +1,16 @@
+body{
+    background: burlywood;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    padding: 30px;
+    width: 350px;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+
+}

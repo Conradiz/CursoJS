@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+section{
+    background: white;
+    width: 300px;
+    padding: 30px;
+    margin: auto;
+}
+header{
+    background: burlywood;
+}
+footer{
+    background: white;
+    margin: auto;
+    text-align: center;
+}

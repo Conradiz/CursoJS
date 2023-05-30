@@ -1,0 +1,23 @@
+body{
+    background: black;
+    font: Arial;
+}
+header{
+    color: bisque;
+    margin: 15px;
+    text-align: center;
+}
+section{
+    background: white;
+    padding: 15px;
+    width: 500px;
+    border-radius: 15px;
+    margin: auto;
+}
+footer{
+    text-align: center;
+    color: bisque;
+}
+div{
+    text-align: center;
+}

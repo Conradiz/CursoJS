@@ -1,0 +1,26 @@
+body{
+    background: black;
+    font: normal 18pt Arial;
+}
+section{
+    background: white;
+    text-align: center;
+    margin: auto;
+    width: 400px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+div#area{
+    font: normal 20pt Arial;
+    background: greenyellow;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+}
+div#res{
+    margin-top: 20px;
+}
