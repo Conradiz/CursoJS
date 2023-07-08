@@ -7,7 +7,13 @@ function contar(){
         window.alert('ERRO');
     }
     else{
-        if(inicio.value ){
+        let i = Number(inicio.value)
+        let f = Number(fim.value)
+        let p = Number(passo.value)
+        if(i < f ){
+            while(i < f){
+                i++
+            }
 
         }
     }
