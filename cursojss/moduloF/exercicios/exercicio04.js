@@ -10,6 +10,10 @@ function contar(){
         let i = Number(inicio.value)
         let f = Number(fim.value)
         let p = Number(passo.value)
+        if (p == 0){
+            window.alert("Passo invalido")
+            p = 1
+        }
         if(i < f ){
             while(i < f){
                 i++
