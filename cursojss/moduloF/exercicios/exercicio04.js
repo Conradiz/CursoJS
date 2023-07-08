@@ -18,7 +18,14 @@ function contar(){
             while(i < f){
                 i++
             }
+        }    
+        else {
+            while(f > i){
+                i--
+
+            }
+        }
 
         }
+    
     }
-}
